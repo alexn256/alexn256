@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Alexander Naumov
+- 👋 Hi, my name is Alexander Naumov.And I think i'm a software engineer.
