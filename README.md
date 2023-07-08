@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Alexander Naumov](https://www.linkedin.com/in/alexander-naumov-913991134/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Alexander Naumov](https://www.linkedin.com/in/alexander-naumov-913991134/))   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/Alexander Naumov](https://twitter.com/FunnyBtm)) 
 
 # 💻 Tech Stack:
