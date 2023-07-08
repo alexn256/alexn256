@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, my name is Alexander Naumov. And I think I'm a software engineer.  
+👋 Hi, my name is Alexander Naumov.  
 ⚡ And I think I'm a software engineer.
 
 
