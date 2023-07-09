@@ -3,6 +3,8 @@
 👋 Hi, my name is Alexander Naumov.  
 ⚡ And I think I'm a software engineer.
 
+### Contact me:
+[![Contact](https://img.shields.io/badge/Email-naumov.btm@gmail.com-orange?labelColor=yellow)](mailto:naumov.btm@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Alexander Naumov](https://www.linkedin.com/in/alexander-naumov-913991134/))   
