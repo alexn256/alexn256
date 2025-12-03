@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/github/followers/alexn256?label=Followers&style=for-the-badge&color=6f42c1" />
   </a>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=alexn256&label=Profile%20Views&color=6f42c1&icon=0&pretty=true" />
+    <img src="https://komarev.com/ghpvc/?username=alexn256&style=for-the-badge&color=6f42c1&labelColor=0d1117&label=Profile+Views" />
   </a>
 </p>
